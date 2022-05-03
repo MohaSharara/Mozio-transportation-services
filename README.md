@@ -29,7 +29,7 @@ In order to create a new provider, insert Name, Email, Phone number, Language an
 
 Above is the list of all providers.
 
-![create Provider](media/create-provider.PNG)
+![create Provider](mozio/media/create-provider.png)
 
 ## Provider Details Api
 
@@ -42,7 +42,7 @@ in this case providers/2/
 In order to Update a provider, edit Name, Email, Phone number, Language or Currency, then press Put.
 In order to Delete a provider, simply press Delete.
 
-![Update Provider](media/update-provider.PNG)
+![Update Provider](mozio/media/update-provider.png)
 
 ## Create Service Area Api
 
@@ -56,7 +56,7 @@ As in this example:
 
 Above is the list of all Service areas.
 
-![create Service Area](media/create-service-area.PNG)
+![create Service Area](mozio/media/create-service-area.png)
 
 ## Service Area Details Api
 
@@ -69,7 +69,7 @@ in this case service-areas/2/
 In order to Update a service area, edit Name, Price, Information, or select different Provider. then press Put.
 In order to Delete a service area, simply press Delete.
 
-![Update Service Area](media/update-service-area.PNG)
+![Update Service Area](mozio/media/update-service-area.png)
 
 ## Query Service Areas
 
@@ -84,4 +84,4 @@ Visit this link query-service-areas/?lat=46.2071762&lng=11.1245718
 
 Above shows the result(s) of the query
 
-![Query Service Areas](media/query.PNG)
+![Query Service Areas](mozio/media/query.png)
